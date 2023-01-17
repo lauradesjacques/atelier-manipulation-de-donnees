@@ -1,4 +1,4 @@
-# Atelier manipulation de données | 16-01-2023 au 18-01-2023
+# Atelier manipulation de données 
 animé par Gaëtan Constant (gaetan.constant@protonmail.com)
 
 ## Programme 
