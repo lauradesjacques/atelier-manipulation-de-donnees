@@ -19,4 +19,4 @@ animé par Gaëtan Constant (gaetan.constant@protonmail.com)
 <strong> Mercredi 18 Janvier </strong>
 
 - Introduction au framework python Dash
-- Réalisation d'une application dataviz sous Dash (jeu de données libre)
+- Réalisation d'une [application dataviz sous Dash] (https://github.com/lauradesjacques/tp_dash_app)
